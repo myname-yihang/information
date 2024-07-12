@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @myname-yihang.Nice to meet you.
+- 👋 Hi, I’m yihang.Nice to meet you.
 
 
 <!---
